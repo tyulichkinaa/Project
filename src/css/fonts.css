@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Raleway;
+    src: url(../fonts/raleway/Raleway-Bold.ttf);
+    width: 800;
+}
+@font-face {
+    font-family: Raleway;
+    src: url(../fonts/raleway/Raleway-Light.ttf);
+    width: 500;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+    width: 300;
+}
